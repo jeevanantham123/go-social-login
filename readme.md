@@ -21,7 +21,7 @@ The application should store the refresh token for future use and use the access
 ## Let's go to the code
 We will use the package "golang.org/x/oauth2" that provides support for making OAuth2 authorized and authenticated HTTP requests.
 
-Create a new project(folder) in your workdir in my case I will call it 'oauth2-example', and we need to include the package of oauth2.
+Create a new project(folder) in your workdir in my case I will call it 'go-social-login', and we need to include the package of oauth2.
 
 `go get golang.org/x/oauth2`
 
